@@ -1,3 +1,4 @@
 {
-    "python.pythonPath": "/Users/ouyang/opt/anaconda3/envs/AudioImage/bin/python"
+    "python.pythonPath": "/Users/ouyang/opt/anaconda3/envs/AudioImage/bin/python",
+    "git.ignoreLimitWarning": true
 }
